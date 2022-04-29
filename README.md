@@ -1,7 +1,5 @@
 ### ryusuke.A
 
-In Tokyo :tokyo_tower:
-
 <!--
 **ryusuke14520/ryusuke14520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ***
-#### Links 
-- [Atcoder account](https://atcoder.jp/users/dragn)
