@@ -1,7 +1,7 @@
-### ryusuke.A
+### ryusuke vlc
 
 <!--
-**ryusuke14520/ryusuke14520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ryusukevlc/ryusukevlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
