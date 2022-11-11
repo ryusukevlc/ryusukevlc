@@ -1,7 +1,7 @@
 ***
-twitter: [https://mobile.twitter.com](https://mobile.twitter.com/rrr_develop)
-note: https://note.com/ryusuke1
-blog: https://ryusukeblog.info/
+twitter: [https://mobile.twitter.com](https://mobile.twitter.com/rrr_develop)  
+note: https://note.com/ryusuke1  
+blog: https://ryusukeblog.info/  
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryusukevlc&theme=monokai)
