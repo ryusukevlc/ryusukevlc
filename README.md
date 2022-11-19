@@ -17,3 +17,6 @@
 [musicList5](https://youtube.com/playlist?list=PL5uhcny8QJzaA9BMhqE6pA-0-ukRUQYFg)  
 [musicList6](https://youtube.com/playlist?list=PL5uhcny8QJzYXWlAn2V6oLDAvAxyn8d1j)  
 [musicList7](https://youtube.com/playlist?list=PL5uhcny8QJzb32pOs0hKIJgC6AJN4DWs-)  
+
+#### tech blog
+https://ryusukeblog.info/
