@@ -4,12 +4,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusukevlc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-SNS  
+#### SNS  
 - [note](https://note.com/ryusuke1)  
 - [youtube](https://www.youtube.com/channel/UCKuLCyJ6xu1ofOw7AsbSP8A/featured)
 
 
-神再生リスト  
+#### Play list  
 - [musicList1](https://youtube.com/playlist?list=PL5uhcny8QJzZZ6I_O2lW4gbqUz-1B8mWI)  
 - [musicList2](https://youtube.com/playlist?list=PL5uhcny8QJzbwrjCc5IVypsJXEAnEVdhd)  
 - [musicList3](https://youtube.com/playlist?list=PL5uhcny8QJzYiz91UqHJxWgPHrTYC_573)  
