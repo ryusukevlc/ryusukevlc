@@ -5,17 +5,17 @@
 
 
 #### sns  
-[note](https://note.com/ryusuke1)  
+[<i class="fa-solid fa-note"></i>](https://note.com/ryusuke1)  
 [youtube](https://www.youtube.com/channel/UCKuLCyJ6xu1ofOw7AsbSP8A/featured)
 
 #### tech blog
 https://ryusukeblog.info/  
 
 #### my play list  
-[musicList1](https://youtube.com/playlist?list=PL5uhcny8QJzZZ6I_O2lW4gbqUz-1B8mWI)  
-[musicList2](https://youtube.com/playlist?list=PL5uhcny8QJzbwrjCc5IVypsJXEAnEVdhd)  
-[musicList3](https://youtube.com/playlist?list=PL5uhcny8QJzYiz91UqHJxWgPHrTYC_573)  
-[musicList4](https://youtube.com/playlist?list=PL5uhcny8QJzYlM51otLlqeSdHIoBmaIO4)  
-[musicList5](https://youtube.com/playlist?list=PL5uhcny8QJzaA9BMhqE6pA-0-ukRUQYFg)  
-[musicList6](https://youtube.com/playlist?list=PL5uhcny8QJzYXWlAn2V6oLDAvAxyn8d1j)  
-[musicList7](https://youtube.com/playlist?list=PL5uhcny8QJzb32pOs0hKIJgC6AJN4DWs-)  
+[1](https://youtube.com/playlist?list=PL5uhcny8QJzZZ6I_O2lW4gbqUz-1B8mWI)
+[2](https://youtube.com/playlist?list=PL5uhcny8QJzbwrjCc5IVypsJXEAnEVdhd)
+[3](https://youtube.com/playlist?list=PL5uhcny8QJzYiz91UqHJxWgPHrTYC_573)
+[4](https://youtube.com/playlist?list=PL5uhcny8QJzYlM51otLlqeSdHIoBmaIO4)
+[5](https://youtube.com/playlist?list=PL5uhcny8QJzaA9BMhqE6pA-0-ukRUQYFg)
+[6](https://youtube.com/playlist?list=PL5uhcny8QJzYXWlAn2V6oLDAvAxyn8d1j)
+[7](https://youtube.com/playlist?list=PL5uhcny8QJzb32pOs0hKIJgC6AJN4DWs-)
