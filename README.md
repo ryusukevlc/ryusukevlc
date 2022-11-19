@@ -5,7 +5,7 @@
 
 
 #### sns  
-[<i class="fa-solid fa-note"></i>](https://note.com/ryusuke1)  
+[note](https://note.com/ryusuke1)  
 [youtube](https://www.youtube.com/channel/UCKuLCyJ6xu1ofOw7AsbSP8A/featured)
 
 #### tech blog
